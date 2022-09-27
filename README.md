@@ -1,7 +1,7 @@
 # Dell-G3-15-3590 Hackintosh
 
-OpenCore Guide: https://dortania.github.io/OpenCore-Install-Guide/
-Flash Boot: https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#making-the-installer 
+OpenCore Guide: https://dortania.github.io/OpenCore-Install-Guide/<br />
+Flash Boot: https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#making-the-installer <br />
 
 ## BT + WiFi
 itlwm - Intel Wi-Fi Drivers для macOS<br />
