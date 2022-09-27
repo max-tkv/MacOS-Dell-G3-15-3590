@@ -1,4 +1,4 @@
-# MacOS-Dell-G3-15-3590 Hackintosh
+# Dell-G3-15-3590 Hackintosh
 
 ## BT + WiFi
 itlwm - Intel Wi-Fi Drivers для macOS<br />
