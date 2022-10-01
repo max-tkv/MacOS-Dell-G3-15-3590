@@ -13,4 +13,4 @@ Cсылка https://github.com/OpenIntelWireless/HeliPort/releases
 
 ## Audio
 Realtek	ALC295<br />	
-layouts: 1, 3, 13, 14, 15, 21, 22, 23, 24, 28, <b>77<b/>
+layouts: 1, 3, 13, 14, 15, 21, 22, 23, 24, 28, <b>(77)<b/>
