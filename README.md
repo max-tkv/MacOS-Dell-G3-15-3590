@@ -10,3 +10,7 @@ HeliPort - Intel Wi-Fi Client для itlwm<br />
 
 ### HeliPort WiFi Client
 Cсылка https://github.com/OpenIntelWireless/HeliPort/releases
+
+## Audio
+Realtek	ALC295<br />	
+layouts: 1, 3, 13, 14, 15, 21, 22, 23, 24, 28, 77	<b>13<b/> (10.9)
