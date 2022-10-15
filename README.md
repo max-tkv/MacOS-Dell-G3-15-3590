@@ -15,6 +15,7 @@ Cсылка https://github.com/OpenIntelWireless/HeliPort/releases
 Realtek	ALC295<br />	
 layouts: <b>(77)<b/>
 
+## Sleep mode
 Reboot during sleep.
 Decision:
 Test solution of the problem
