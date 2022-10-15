@@ -1,4 +1,4 @@
-# Dell-G3-15-3590 Hackintosh
+# Dell G3 15 3590 Hackintosh
 
 OpenCore Guide: https://dortania.github.io/OpenCore-Install-Guide/<br />
 Flash Boot: https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#making-the-installer <br />
@@ -13,4 +13,4 @@ Cсылка https://github.com/OpenIntelWireless/HeliPort/releases
 
 ## Audio
 Realtek	ALC295<br />	
-layouts: 1, 3, 13, 14, 15, 21, 22, 23, 24, 28, <b>(77)<b/>
+layouts: <b>(77)<b/>
