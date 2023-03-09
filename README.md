@@ -1,4 +1,5 @@
 # Dell G3 15 3590 Hackintosh
+Hackintosh для ноутбука Dell G3 15 3590
 
 OpenCore Guide: https://dortania.github.io/OpenCore-Install-Guide/<br />
 Flash Boot: https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#making-the-installer <br />
